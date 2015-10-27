@@ -12,6 +12,3 @@ DATE=`/bin/date`
 /opt/bin/git commit -m "$DATE touch"
 /opt/bin/git push origin master
 
-
-
-
