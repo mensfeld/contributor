@@ -4,6 +4,8 @@ PATH=/volume1/homes/admin/data/github/contributor
 
 cd $PATH
 
+/opt/bin/git pull origin master
+
 DATE=`/bin/date`
 
 /bin/echo $DATE >> ./counter
